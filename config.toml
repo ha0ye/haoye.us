@@ -1,4 +1,4 @@
-baseURL = "/haoye.us/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hao Ye, PhD"
