@@ -30,8 +30,7 @@ jobs:
         run: |
           R -e 'blogdown::build_site(TRUE)'
 
-      - name: Deploy to GitHub pages 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-pages
-          folder: public
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+          github_token: ${{ secrets.GITHUB_TOKEN}}
+          publish_dir: ./public

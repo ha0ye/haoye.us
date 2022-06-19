@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/haoye.us/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hao Ye, PhD"
@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Hao Ye"
   orgLocal = ""
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Hao Ye's personal website"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Metropolis"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Georgia"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -128,7 +128,7 @@ enableEmoji = true
     weight = 5
   [[menu.header]]
     name = "Contact"
-    title = "Element Page"
+    title = "Contact Me"
     url = "/elements/"
     weight = 6
     
@@ -147,22 +147,22 @@ enableEmoji = true
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    disable = false
+    disable = true
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = true
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = true
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = true
     simple = true
   [privacy.youtube]
-    disable = false
+    disable = true
     privacyEnhanced = true
