@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://ha0ye.github.io/haoye.us/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hao Ye, PhD"

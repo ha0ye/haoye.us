@@ -20,5 +20,10 @@ I am the Reproducibility Librarian at the University of Florida Health Science C
 
 ## Affiliations
 
+Associate Editor &#8729; Methods in Ecology & Evolution
+Code of Conduct committee &#8729; Reproducibility 4 Everysone
+Instructor, Instructor Trainer &#8729; The Carpentries
 
-Hao currently serves as an Associate Editor at Methods in Ecology & Evolution, on the selection committee of the Code for Science & Society's Event Fund, on the Code of Conduct committee for Reproducibility 4 Everyone, and as an instructor trainer for The Carpentries. Hao's dog is named Falafel.
+## Falafel
+
+![img/falafel.jpg](img/falafel.jpg)
