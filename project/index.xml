@@ -6,7 +6,17 @@
     <description>Recent content in A Project Portfolio To Grow on Hao Ye, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Planning for Open Grants</title>
+      <link>https://ha0ye.github.io/haoye.us/project/open_grants/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha0ye.github.io/haoye.us/project/open_grants/</guid>
+      <description>About     This IMLS-funded project explores the potential for an open repository of funding proposals to elevate their recognition as scholarly products, improve access for the public and other grant seekers, and bring transparency to this facet of the research process.
+This site builds on the longstanding OGrants project, led by Ethan White, to document a new phase of discussion, needs assessment, and technical planning for a repository of open grants.</description>
+    </item>
+    
     <item>
       <title>Tachyons for Style</title>
       <link>https://ha0ye.github.io/haoye.us/project/giraffes/</link>

@@ -6,7 +6,7 @@
     <description>Recent content in Hao Ye on Hao Ye, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>https://ha0ye.github.io/haoye.us/collection/day02/01-netlify/</link>
@@ -116,6 +116,16 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Planning for Open Grants</title>
+      <link>https://ha0ye.github.io/haoye.us/project/open_grants/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha0ye.github.io/haoye.us/project/open_grants/</guid>
+      <description>About     This IMLS-funded project explores the potential for an open repository of funding proposals to elevate their recognition as scholarly products, improve access for the public and other grant seekers, and bring transparency to this facet of the research process.
+This site builds on the longstanding OGrants project, led by Ethan White, to document a new phase of discussion, needs assessment, and technical planning for a repository of open grants.</description>
     </item>
     
     <item>
@@ -302,6 +312,17 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <guid>https://ha0ye.github.io/haoye.us/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution 4.0 International License.
   </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ha0ye.github.io/haoye.us/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha0ye.github.io/haoye.us/teaching/</guid>
+      <description>Teaching Philosophy     I strive to make my teaching accessible and actionable, through setting expectations up front, and developing content and exercises that center learning.
+My formal training comes from:
+ &amp;ldquo;Teaching + Learning at the College Level&amp;rdquo;, a course on evidence-based teaching practices taught by UCSD&amp;rsquo;s Teaching + Learning Commons. (The course is now called &amp;ldquo;Introduction to College Teaching&amp;rdquo;.) The Carpentries Instructor Training and Trainer Training.</description>
     </item>
     
   </channel>
