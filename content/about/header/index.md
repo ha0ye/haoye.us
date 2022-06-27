@@ -26,4 +26,4 @@ Instructor, Instructor Trainer &#8729; The Carpentries
 
 ## Falafel
 
-![img/falafel.jpg](img/falafel.jpg)
+![Falafel](falafel.jpg)

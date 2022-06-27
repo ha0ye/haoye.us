@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Hao Ye's personal website"
   favicon = "/img/favicon.ico"
   logo = "/img/leaf.svg"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -96,8 +96,6 @@ enableEmoji = true
 
 [taxonomies]
   category = "categories"
-  series = "series"
-  tag = "tags"
 
 [menu]
   # Configure header 
