@@ -121,7 +121,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Contact"
     title = "Contact Me"
-    url = "/elements/"
+    url = "/contact/"
     weight = 6
     
   # Configure footer  

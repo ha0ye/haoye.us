@@ -27,3 +27,7 @@ Instructor, Instructor Trainer &#8729; The Carpentries
 ## Falafel
 
 ![Falafel](falafel.jpg)
+
+## Old Website
+
+Looking for the previous version of my website? It can be found at https://ha0ye.github.io/personal-website
