@@ -1,22 +1,27 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
 draft: false
-formspree_form_id: id-from-formspree
-layout: split-right
-name: Contact Us Form
-show_poweredby_formspree: true
+layout: single
 show_social_links: true
-submit_button_label: Send Message
-title: Contact
-type: form
+title: Ways to Contact Me
 url: contact
 ---
 
-** Contact page don't contain a body, just the front matter above.
-See form.html in the layouts folder.
+## Email
 
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.
-**
+### [UF: haoye@ufl.edu](mailto:haoye@ufl.edu)
+
+## Social Media Accounts
+
+### [Mastodon: @hye@glammr.us](https://glammr.us/@hye/)
+
+### [Twitter: Hao_and_Y](https://twitter.com/Hao_and_Y)
+
+## Other Profiles
+
+### [ORCiD: 0000-0002-8630-1458](http://orcid.org/0000-0002-8630-1458)
+
+### [GitHub: ha0ye](https://github.com/ha0ye/haoye.us)
+
+### [Google Scholar](https://scholar.google.com/citations?user=8hToXlwAAAAJ&hl=en)
+
