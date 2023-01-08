@@ -10,7 +10,7 @@ excerpt: \"Planning for Open Grants\"" investigates the social and technical cha
 featured: true
 layout: single
 links:
-- icon: door-open
+- icon: window-restore
   icon_pack: fas
   name: Website
   url: https://www.ogrants.org/about.html
