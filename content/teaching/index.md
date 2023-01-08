@@ -13,7 +13,7 @@ links:
   url: https://guides.uflib.ufl.edu/reproducibility/lessons
 - icon: calendar
   icon_pack: fas
-  name: HSCL Workshops
+  name: Workshop Calendar
   url: https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops
 - icon: laptop-code
   icon_pack: fas
