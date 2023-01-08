@@ -3,32 +3,38 @@
 on:
   push:
     branches: [main, master]
-
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+  
 name: blogdown
 
 jobs:
   blogdown:
     runs-on: ubuntu-latest
+    # Only restrict concurrency for non-PR jobs
+    concurrency:
+      group: pkgdown-${{ github.event_name != 'pull_request' || github.run_id }}
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: r-lib/actions/setup-pandoc@v1
+      - uses: r-lib/actions/setup-pandoc@v2
 
-      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
 
-      - uses: r-lib/actions/setup-renv@v1
+      - uses: r-lib/actions/setup-renv@v2
 
       - name: Install hugo
-        run: |
-          R -e 'blogdown::install_hugo(version = "0.85.0")'
+        run: blogdown::install_hugo(version = "0.85.0")
+        shell: Rscript {0}
 
       - name: Build site
-        run: |
-          R -e 'blogdown::build_site(TRUE)'
+        run: blogdown::build_site(TRUE)
+        shell: Rscript {0}
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
