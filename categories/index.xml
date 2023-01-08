@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Hao Ye, PhD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NIH DMSP</title>
+      <link>https://ha0ye.github.io/haoye.us/categories/nih-dmsp/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha0ye.github.io/haoye.us/categories/nih-dmsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://ha0ye.github.io/haoye.us/categories/resources/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ha0ye.github.io/haoye.us/categories/resources/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>funded</title>
       <link>https://ha0ye.github.io/haoye.us/categories/funded/</link>
@@ -35,24 +53,6 @@
     </item>
     
     <item>
-      <title>Theme Features</title>
-      <link>https://ha0ye.github.io/haoye.us/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ha0ye.github.io/haoye.us/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evergreen</title>
-      <link>https://ha0ye.github.io/haoye.us/categories/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ha0ye.github.io/haoye.us/categories/evergreen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>workshop</title>
       <link>https://ha0ye.github.io/haoye.us/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
@@ -62,29 +62,11 @@
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://ha0ye.github.io/haoye.us/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ha0ye.github.io/haoye.us/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meetup</title>
       <link>https://ha0ye.github.io/haoye.us/categories/meetup/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       
       <guid>https://ha0ye.github.io/haoye.us/categories/meetup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>https://ha0ye.github.io/haoye.us/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ha0ye.github.io/haoye.us/categories/package/</guid>
       <description></description>
     </item>
     

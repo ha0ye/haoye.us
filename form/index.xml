@@ -8,13 +8,12 @@
     <language>en</language>
     <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate><atom:link href="https://ha0ye.github.io/haoye.us/form/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
+      <title>Ways to Contact Me</title>
       <link>https://ha0ye.github.io/haoye.us/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
       <guid>https://ha0ye.github.io/haoye.us/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+      <description> Email     UF: haoye@ufl.edu     Social Media Accounts     Mastodon: @hye@glammr.us     Twitter: Hao_and_Y     Other Profiles     ORCiD: 0000-0002-8630-1458     GitHub: ha0ye     Google Scholar     </description>
     </item>
     
   </channel>
