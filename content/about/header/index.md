@@ -20,9 +20,14 @@ I am the Reproducibility Librarian at the University of Florida Health Science C
 
 ## Affiliations
 
-Associate Editor &#8729; Methods in Ecology & Evolution
+Data Paper Editor &#8729; Ecology
 Code of Conduct committee &#8729; Reproducibility 4 Everysone
 Instructor, Instructor Trainer &#8729; The Carpentries
+
+## Past Affiliations
+
+Associate Editor &#8729; Methods in Ecology & Evolution
+Selection Committee &#8729; Code for Science & Society, Event Fund
 
 ## Falafel
 
@@ -30,4 +35,4 @@ Instructor, Instructor Trainer &#8729; The Carpentries
 
 ## Old Website
 
-Looking for the previous version of my website? It can be found at https://ha0ye.github.io/personal-website
+Looking for the previous version of my website? It can be found at https://github.com/ha0ye/personal-website
