@@ -6,7 +6,11 @@ headline: |
   About Hao Ye
 ---
 
-I am the Reproducibility Librarian at the University of Florida Health Science Center Libraries. After a meandering route through computer science, psychology, oceanography, and ecology, he now focuses on developing and promoting tools and practices to empower researchers across all disciplines, backgrounds, and career stages. Hao is passionate about open science and reproducible research as a lever to shift academic culture towards more equity and inclusion, facilitate collaborations, and dismantle gatekeeping. 
+As the Reproducibility Librarian at the University of Florida, I provide training and consultations in open research, reproducible practices, and computational workflows.
+
+I have had a meandering academic and educational path through computer science, psychology, oceanography, and ecology. Primarily, I have been motivated in finding opportunities to use my expertise to solve interesting problems.
+
+I am interested in making academia and research more inclusive and open, through better tools, training, incentives, and enforcement of norms.
 
 ## Education
 
@@ -20,13 +24,16 @@ I am the Reproducibility Librarian at the University of Florida Health Science C
 
 ## Affiliations
 
-Data Paper Editor &#8729; Ecology
-Code of Conduct committee &#8729; Reproducibility 4 Everysone
-Instructor, Instructor Trainer &#8729; The Carpentries
+Data Paper Editor &#8729; [Ecology](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
+
+Code of Conduct committee &#8729; [Reproducibility 4 Everyone](https://www.repro4everyone.org/)
+
+Instructor, Instructor Trainer &#8729; [The Carpentries](https://carpentries.org/)
 
 ## Past Affiliations
 
 Associate Editor &#8729; Methods in Ecology & Evolution
+
 Selection Committee &#8729; Code for Science & Society, Event Fund
 
 ## Falafel
