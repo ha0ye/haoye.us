@@ -7,6 +7,12 @@ title: Ways to Contact Me
 url: contact
 ---
 
+## Inclusion Rider
+
+_For invited engagements, please note that I use the following inclusion rider._
+
+I strive for events where the invited [speakers/panelists/etc] are representative of the diversity (along whichever axes) of the appropriate audience. If your event has not yet considered inclusive representation or you feel that there are improvements to be made, I would be happy to step down and/or suggest alternative speakers.
+
 ## Email
 
 ### [UF: haoye@ufl.edu](mailto:haoye@ufl.edu)
