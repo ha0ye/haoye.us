@@ -6,11 +6,11 @@ headline: |
   About Hao Ye
 ---
 
-As the Reproducibility Librarian at the University of Florida, I provide training and consultations in open research, reproducible practices, and computational workflows.
+I am motivated to use my expertise to solve interesting and impactful problems. Lately, that has been through teaching and developing training materials, and collaborating to achieve systemic change in research practices.
 
-I have had a meandering academic and educational path through computer science, psychology, oceanography, and ecology. Primarily, I have been motivated in finding opportunities to use my expertise to solve interesting problems.
+My academic background has spanned several different fields, including computer science, psychology, oceanography, and ecology. Currently, I focus on open research / open science and reproducibility practices.
 
-I am interested in making academia and research more inclusive and open, through better tools, training, incentives, and enforcement of norms.
+More broadly, I am interested in making academia and society more inclusive and open, to improve accessibility to knowledge. After many years spent working on data and software, I have become more intentionally collaborative to tackle these larger scale problems. I enjoy working with other people on initiatives, so [get in touch](../contact) if you want to chat!
 
 ## Education
 
@@ -23,6 +23,8 @@ I am interested in making academia and research more inclusive and open, through
 <i class="fas fa-graduation-cap pr2"></i>B.S. in Computer Science &#8729; California Institute of Technology &#8729; 2006
 
 ## Affiliations
+
+Governance Committee &#8729; [OLS](https://openlifesci.org/)
 
 Data Paper Editor &#8729; [Ecology](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
 

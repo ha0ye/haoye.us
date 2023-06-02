@@ -15,7 +15,7 @@ I strive for events where the invited [speakers/panelists/etc] are representativ
 
 ## Email
 
-### [UF: haoye@ufl.edu](mailto:haoye@ufl.edu)
+### [personal: chaotic_waffle@protonmail.com](mailto:chaotic_waffle@protonmail.com)
 
 ## Social Media Accounts
 

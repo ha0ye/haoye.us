@@ -8,7 +8,7 @@ images:
 - img/hao-ye.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Reproducibility Librarian
+subtitle: false
 text_align_left: false
 title: Hao Ye
 type: home
