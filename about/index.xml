@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Hao Ye, PhD</title>
-    <link>https://haoye.us/about/</link>
-    <description>Recent content in About on Hao Ye, PhD</description>
+    <title>About on Falafel</title>
+    <link>https://falafel.haus/about/</link>
+    <description>Recent content in About on Falafel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://haoye.us/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://falafel.haus/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
