@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: ball cheese cheese ball ball cheese ball ball cheese ball cheese. cheese cheese ball ball cheese cheese ball, cheese cheese ball cheese, cheese ball ball ball cheese ball ball cheese cheese. ball cheese cheese cheese cheese cheese cheese, cheese, cheese cheese, cheese ball cheese [cheese cheese](https://en.wikipedia.org/wiki/Cheese) ball cheese ball ball cheese cheese cheese ball ball ball ball cheese.
+description: I am passionate about empowering individuals and teams to work openly. I believe that working openly facilitates collaborations, makes the work better, and is a pathway towards disrupting inequitable power structures. In addition to training researchers in project, data, and computing, I also lead [Ally Skills](https://alligatorallyskills.weebly.com/) workshops on how to use everyday actions to improve inclusion and accessibility.
 image_left: true
 images:
-- img/falafel.jpg
+- img/hao-ye.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Reproducibility Librarian
+subtitle: false
 text_align_left: false
-title: Falafel
+title: Hao Ye
 type: home
 ---
 
