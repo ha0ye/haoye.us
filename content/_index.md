@@ -8,7 +8,7 @@ images:
 - img/falafel.jpg
 show_action_link: true
 show_social_links: true
-subtitle: false
+subtitle: Reproducibility Librarian
 text_align_left: false
 title: Falafel
 type: home
