@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  About Hao Ye
+  About Falafel
 show_header: true
 sidebar_left: false
 title: About
