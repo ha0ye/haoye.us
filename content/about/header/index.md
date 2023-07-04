@@ -40,7 +40,9 @@ Selection Committee &#8729; Code for Science & Society, Event Fund
 
 ## Falafel
 
-![Falafel](falafel.jpg)
+[![Falafel](falafel.jpg)](https://falafel.haus)
+
+https://falafel.haus
 
 ## Old Website
 
