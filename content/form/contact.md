@@ -15,7 +15,7 @@ I strive for events where the invited [speakers/panelists/etc] are representativ
 
 ## Email
 
-### [UF: haoye@ufl.edu](mailto:haoye@ufl.edu)
+### [UPenn: haoye@seas.upenn.edu](haoye@seas.upenn.edu)
 
 ## Social Media Accounts
 
@@ -27,7 +27,7 @@ I strive for events where the invited [speakers/panelists/etc] are representativ
 
 ### [ORCiD: 0000-0002-8630-1458](http://orcid.org/0000-0002-8630-1458)
 
-### [GitHub: ha0ye](https://github.com/ha0ye/haoye.us)
+### [GitHub: ha0ye](https://github.com/ha0ye)
 
 ### [Google Scholar](https://scholar.google.com/citations?user=8hToXlwAAAAJ&hl=en)
 
