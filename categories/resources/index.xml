@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resources on Falafel</title>
-    <link>https://falafel.haus/categories/resources/</link>
-    <description>Recent content in resources on Falafel</description>
+    <title>resources on Hao Ye</title>
+    <link>https://haoye.us/categories/resources/</link>
+    <description>Recent content in resources on Hao Ye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://falafel.haus/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://haoye.us/categories/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working Group on NIH DMSP Guidance</title>
-      <link>https://falafel.haus/project/wg_dmsp/</link>
+      <link>https://haoye.us/project/wg_dmsp/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://falafel.haus/project/wg_dmsp/</guid>
+      <guid>https://haoye.us/project/wg_dmsp/</guid>
       <description>About     This working group is a community effort to create resources to share with the researcher community in regards to the NIH Data Management and Sharing Policy (2023).
 Materials, the list of contributors, and more can be found at the project website on OSF.
 Acknowledgments     This project was made possible with support from the RDAP Association. The content is solely the responsibility of the authors and does not necessarily represent the official views of the RDAP association.</description>
