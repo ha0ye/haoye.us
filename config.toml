@@ -1,8 +1,8 @@
-baseURL = "https://falafel.haus/"
+baseURL = "https://haoye.us/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Falafel"
-author = "Falafel"
+title = "Hao Ye"
+author = "Hao Ye"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "Falafel"
+  orgName = "Hao Ye"
   orgLocal = ""
-  description = "Falafel's personal website"
+  description = "Hao Ye's personal website"
   favicon = "/img/favicon.ico"
   logo = "/img/leaf.svg"
   mainSections = ["blog", "project"]
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/falafel.jpg"
+  sharing_image = "/img/hao-ye.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = ""
   
@@ -71,7 +71,7 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "ha0ye/falafel.haus"
+    repo_name = "ha0ye/haoye.us"
     issue_term = "pathname" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
@@ -84,19 +84,19 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/ha0ye/falafel.haus"
+      url       = "https://github.com/ha0ye/haoye.us"
     [[params.social]]
       icon      = "mastodon" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/"
+      url       = "https://twitter.com/Hao_and_Y"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://glammr.us/"
+      url       = "https://glammr.us/@hye"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/"
+      url       = "https://orcid.org/0000-0002-8630-1458"
 
 [taxonomies]
   category = "categories"

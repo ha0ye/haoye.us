@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  About Falafel
+  About Hao
 show_header: true
 sidebar_left: false
 title: About

@@ -6,7 +6,7 @@ categories:
 - funded
 date: "2021-07-30"
 draft: false
-excerpt: \"Planning for Open Grants\"" investigates the social and technical challenges and opportunities for creating and maintaining an open grants repository.
+excerpt: \"Planning for Open Grants\" investigates the social and technical challenges and opportunities for creating and maintaining an open grants repository.
 featured: true
 layout: single
 links:
