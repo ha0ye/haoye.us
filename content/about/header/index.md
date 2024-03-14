@@ -6,11 +6,16 @@ headline: |
   About Hao Ye
 ---
 
-I am motivated to use my expertise to solve interesting and impactful problems. Lately, that has been through teaching and developing training materials, and collaborating to achieve systemic change in research practices.
+I am the Curriculum Lead for the [Community for Rigor](https://c4r.io/).
 
-My academic background has spanned several different fields, including computer science, psychology, oceanography, and ecology. Currently, I focus on open research / open science and reproducibility practices.
+I am interested in reforming research systems to be more humane, welcoming, inclusive, and equitable.
+This encompasses a variety of movements, including:
 
-More broadly, I am interested in making academia and society more inclusive and open, to improve accessibility to knowledge. After many years spent working on data and software, I have become more intentionally collaborative to tackle these larger scale problems. I enjoy working with other people on initiatives, so [get in touch](../contact) if you want to chat!
+* open research (perhaps more popularly known as "open science")
+* researcher training
+* labor conditions and incentive alignment
+
+My primary motivation is to use my expertise to solve interesting and impactful problems, with the goal of making academia and society more inclusive and open. After many years spent working on data and software, I have become more intentionally collaborative to tackle these larger scale problems. I enjoy working with other people on initiatives, so [get in touch](../contact) if you want to chat!
 
 ## Education
 
