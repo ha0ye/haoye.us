@@ -1,17 +1,16 @@
 ---
-## Configure header of page
-text_align_right: false
-show_title_as_headline: false
-headline: |
-  About Hao Ye
+draft: false
+layout: single
+show_social_links: true
+title: About Hao Ye
 ---
 
-I am the Curriculum Lead for the [Community for Rigor](https://c4r.io/).
+I am the Computational Sciences Librarian at Princeton University.
 
 I am interested in reforming research systems to be more humane, welcoming, inclusive, and equitable.
 This encompasses a variety of movements, including:
 
-* open research (perhaps more popularly known as "open science")
+* open research (sometimes referred to as "open science")
 * researcher training
 * labor conditions and incentive alignment
 
@@ -29,25 +28,29 @@ My primary motivation is to use my expertise to solve interesting and impactful 
 
 ## Affiliations
 
-Governance Committee &#8729; [OLS](https://openlifesci.org/)
-
 Data Paper Editor &#8729; [Ecology](https://esajournals.onlinelibrary.wiley.com/journal/19399170)
 
 Code of Conduct committee &#8729; [Reproducibility 4 Everyone](https://www.repro4everyone.org/)
 
 Instructor, Instructor Trainer &#8729; [The Carpentries](https://carpentries.org/)
 
-## Past Affiliations
+## Past Work and Affiliations
+
+Curriculum Lead &#8729; [Community for Rigor](https://c4r.io/)
+
+Reproducibility Librarian &#8729; University of Florida
+
+Governance Committee &#8729; [OLS](https://openlifesci.org/)
 
 Associate Editor &#8729; Methods in Ecology & Evolution
 
 Selection Committee &#8729; Code for Science & Society, Event Fund
 
-## Falafel
+## Pets
 
-[![Falafel](falafel.jpg)](https://falafel.haus)
+My partner and I have a dog, Falafel, and a cat, Capers.
 
-https://falafel.haus
+![Falafel and Capers](falafel_capers.jpg)
 
 ## Old Website
 

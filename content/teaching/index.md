@@ -7,14 +7,6 @@ excerpt: Teaching Philosophy, Activities, and Experience
 featured: true
 layout: single
 links:
-- icon: book
-  icon_pack: fas
-  name: OER Lessons
-  url: https://guides.uflib.ufl.edu/reproducibility/lessons
-- icon: calendar
-  icon_pack: fas
-  name: Workshop Calendar
-  url: https://libcal.uflib.ufl.edu/calendar/HSCLWorkshops
 - icon: laptop-code
   icon_pack: fas
   name: Tidy Tuesday examples
@@ -33,7 +25,7 @@ My formal training comes from:
 
 ### UF Instruction
 
-I am a co-instructor at UF for GMS 5909 "Finding Biomedical Research Information and Communicating Science" (Fall 2020; *planned Fall 2022*)
+I was a co-instructor at UF for GMS 5909 "Finding Biomedical Research Information and Communicating Science"
 
 I also do course-integrated instruction in a variety of reproduciblity-themed topics, such as version control, FAIR data, rigor and reproducibility, etc.
 

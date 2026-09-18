@@ -1,5 +1,4 @@
 ---
-date: "2019-02-25T13:38:41-06:00"
 draft: false
 layout: single
 show_social_links: true
@@ -15,13 +14,13 @@ I strive for events where the invited [speakers/panelists/etc] are representativ
 
 ## Email
 
-### [UPenn: haoye@seas.upenn.edu](haoye@seas.upenn.edu)
+### [Princeton: haoye@princeton.edu](haoye@princeton.edu)
 
 ## Social Media Accounts
 
 ### [Mastodon: @hye@glammr.us](https://glammr.us/@hye/)
 
-### [Twitter: Hao_and_Y](https://twitter.com/Hao_and_Y)
+### [Bluesky: hao_and_y](https://bsky.app/profile/hao-and-y.bsky.social)
 
 ## Other Profiles
 
