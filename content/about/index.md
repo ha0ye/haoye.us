@@ -5,13 +5,12 @@ show_social_links: true
 title: About Hao Ye
 ---
 
-I am the Computational Sciences Librarian at Princeton University.
+I am the Computational Sciences Librarian at Princeton University, and serve as the library's liaison for the Computer Science and Electrical & Computer Engineering departments.
 
-I am interested in reforming research systems to be more humane, welcoming, inclusive, and equitable.
-This encompasses a variety of movements, including:
+Broadly speaking, I am interested in reforming research systems to be more humane, welcoming, inclusive, and equitable. This manifests in work around:
 
 * open research (sometimes referred to as "open science")
-* researcher training
+* researcher training (e.g. around rigor, reproducibility, open practices)
 * labor conditions and incentive alignment
 
 My primary motivation is to use my expertise to solve interesting and impactful problems, with the goal of making academia and society more inclusive and open. After many years spent working on data and software, I have become more intentionally collaborative to tackle these larger scale problems. I enjoy working with other people on initiatives, so [get in touch](../contact) if you want to chat!
